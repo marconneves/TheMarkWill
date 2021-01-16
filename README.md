@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img width="360px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marconwillian&layout=compact&theme=dark" />
 
-<!--img width="360px" align="left" src="https://github-readme-stats.vercel.app/api?username=marconwillian&theme=defaultmarconwillian&show_icons=true" --/>
+## Com o que trabalho:
+![Koenomatachi-SanGithub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=marconwillian&layout=compact&theme=dark)
+
+## Minhas contribuições:
+![Koenomatachi-SanGithub stats](https://github-readme-stats.vercel.app/api?username=marconwillian&theme=dark&show_icons=true)
