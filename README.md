@@ -1,8 +1,6 @@
 ![github-header-image](https://user-images.githubusercontent.com/34342635/170594666-07f23e41-0045-49b2-bad0-f0559051810f.png)
 
 
-### Hi there 👋
-
 <!--
 **marconwillian/Marconwillian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
